@@ -3,7 +3,7 @@
   "component": {
     "group": "com.chancetop",
     "module": "agent-service-interface",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -25,13 +25,13 @@
       },
       "files": [
         {
-          "name": "agent-service-interface-1.0.0.jar",
-          "url": "agent-service-interface-1.0.0.jar",
-          "size": 3282,
-          "sha512": "9c1f6e18e811b91db46d4d27ba3b3b2a5b7bdf4f2e05fc84de7e92a08763c3401c9013d79da44f72f8e0d53537d635871c5755045bee6e094275486305f53193",
-          "sha256": "0617522f2bd075e0e1318705095d27c305cdd6625fe94e53241fcd5baa49983a",
-          "sha1": "0776de39df49e1d51eb69924002d8be53d601dfd",
-          "md5": "20d22d2fb083895df60195c7e0887356"
+          "name": "agent-service-interface-1.0.1.jar",
+          "url": "agent-service-interface-1.0.1.jar",
+          "size": 3285,
+          "sha512": "ec4e2b3da84c2970aa13133e12c2e300b7dbb83731df8971a2a9a6656dddffa3a793b86298f6c0126486f9f2110e4c39849e838474d630c7427a59905da3fa36",
+          "sha256": "17fa982dc56dd8d4dfb36b43c552957a9479a71ad3f6eff44906b9272e74f7e7",
+          "sha1": "f269cfc699e8919315d694bca04ea7e97911dc22",
+          "md5": "3303122805eafcb1326c4883952d924d"
         }
       ]
     },
@@ -62,13 +62,13 @@
       ],
       "files": [
         {
-          "name": "agent-service-interface-1.0.0.jar",
-          "url": "agent-service-interface-1.0.0.jar",
-          "size": 3282,
-          "sha512": "9c1f6e18e811b91db46d4d27ba3b3b2a5b7bdf4f2e05fc84de7e92a08763c3401c9013d79da44f72f8e0d53537d635871c5755045bee6e094275486305f53193",
-          "sha256": "0617522f2bd075e0e1318705095d27c305cdd6625fe94e53241fcd5baa49983a",
-          "sha1": "0776de39df49e1d51eb69924002d8be53d601dfd",
-          "md5": "20d22d2fb083895df60195c7e0887356"
+          "name": "agent-service-interface-1.0.1.jar",
+          "url": "agent-service-interface-1.0.1.jar",
+          "size": 3285,
+          "sha512": "ec4e2b3da84c2970aa13133e12c2e300b7dbb83731df8971a2a9a6656dddffa3a793b86298f6c0126486f9f2110e4c39849e838474d630c7427a59905da3fa36",
+          "sha256": "17fa982dc56dd8d4dfb36b43c552957a9479a71ad3f6eff44906b9272e74f7e7",
+          "sha1": "f269cfc699e8919315d694bca04ea7e97911dc22",
+          "md5": "3303122805eafcb1326c4883952d924d"
         }
       ]
     },
@@ -82,13 +82,13 @@
       },
       "files": [
         {
-          "name": "agent-service-interface-1.0.0-sources.jar",
-          "url": "agent-service-interface-1.0.0-sources.jar",
-          "size": 2728,
-          "sha512": "54eea6fb5a4d36bc78b5516458500b16be0d5e8b1696717de0453c7140ef207f2f450567b3d4674f9256133e9c3dfe6e4a7c49b464043143ce09d6a57c9d2c57",
-          "sha256": "76fce028647ed7f21b9d8d6e7830a07d6b76147e90eba8c9dd4272cfce6291cb",
-          "sha1": "8711dcda94b4e12771272a720ae330002b9584b2",
-          "md5": "8332f4e36bc29e6b977f031d6a035311"
+          "name": "agent-service-interface-1.0.1-sources.jar",
+          "url": "agent-service-interface-1.0.1-sources.jar",
+          "size": 2731,
+          "sha512": "806b6df6b955c279bc5f04a638ba56ad3350249c0d552f34e649e6a97578f0dffa4bff895929c9baa07f267990becfc4c7c2b1e8c17b9724edbf268720c58442",
+          "sha256": "4660e63752fa8f50e24c9789234803b9db224b0900db9d067d01e92c36c85d43",
+          "sha1": "ce41dc5241b228094de586fa21788f31ee21644c",
+          "md5": "95b1f3234793356157887037dbcafdfa"
         }
       ]
     }
