@@ -1,0 +1,89 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.chancetop",
+    "module": "agent-service-interface",
+    "version": "1.0.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.6"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "agent-service-interface-1.0.0.jar",
+          "url": "agent-service-interface-1.0.0.jar",
+          "size": 3176,
+          "sha512": "ee96fbc472def39f73fed006bd91279e9128f0567e3d8b41e95d45feb39d78a819025e5891f2e3351c6ca09686a45edcf7aa9c47186ddb3024480ef052d12660",
+          "sha256": "2c42924e5cbe951f99e7753a8763f4ff745fc21b5c5358a867f2ec21f1b74f07",
+          "sha1": "f0c1c260e39e19734d97a934c2bcdbae102bc72d",
+          "md5": "2c78e16f2f764ea7dc9ee6235dca25e2"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "core.framework",
+          "module": "core-ng-api",
+          "version": {
+            "requires": "9.1.5"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "agent-service-interface-1.0.0.jar",
+          "url": "agent-service-interface-1.0.0.jar",
+          "size": 3176,
+          "sha512": "ee96fbc472def39f73fed006bd91279e9128f0567e3d8b41e95d45feb39d78a819025e5891f2e3351c6ca09686a45edcf7aa9c47186ddb3024480ef052d12660",
+          "sha256": "2c42924e5cbe951f99e7753a8763f4ff745fc21b5c5358a867f2ec21f1b74f07",
+          "sha1": "f0c1c260e39e19734d97a934c2bcdbae102bc72d",
+          "md5": "2c78e16f2f764ea7dc9ee6235dca25e2"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "agent-service-interface-1.0.0-sources.jar",
+          "url": "agent-service-interface-1.0.0-sources.jar",
+          "size": 2627,
+          "sha512": "a6b62ac3b0e17c869d41a4555d577546bcb71ff80d6a9aa54bfa9b3bedab239345219b68bff46618fed9396548dab1d34639e372b2d3f1f9bfe54e445ad32479",
+          "sha256": "a9820e6e408e90ddf725026d2208b9174798fc1ffaeff5d22b7fb8ed36d397b3",
+          "sha1": "9a9b10128b2e33778e3f04f087417b96b1dea35a",
+          "md5": "da82ee8279299ef50ff4328a18e5278f"
+        }
+      ]
+    }
+  ]
+}
