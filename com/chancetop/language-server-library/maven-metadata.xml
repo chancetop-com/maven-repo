@@ -3,11 +3,12 @@
   <groupId>com.chancetop</groupId>
   <artifactId>language-server-library</artifactId>
   <versioning>
-    <latest>1.0.0</latest>
+    <latest>1.0.0-SNAPSHOT</latest>
     <release>1.0.0</release>
     <versions>
       <version>1.0.0</version>
+      <version>1.0.0-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20250221031839</lastUpdated>
+    <lastUpdated>20250226093531</lastUpdated>
   </versioning>
 </metadata>
