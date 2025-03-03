@@ -1,0 +1,138 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.chancetop",
+    "module": "core-ai",
+    "version": "1.0.0-SNAPSHOT",
+    "attributes": {
+      "org.gradle.status": "integration"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.6"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "1.9.20"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "core-ai-1.0.0-SNAPSHOT.jar",
+          "url": "core-ai-1.0.0-SNAPSHOT.jar",
+          "size": 182274,
+          "sha512": "b7f0f329754c8c8ff2eb55573ba08d7e77fc843ebb83d6e26b736d4621ddbacab4cf6a0c2cccc2c5376323043fb1e280d790a79df94ca75b3689cb3218caa4c6",
+          "sha256": "88e1ec042fd083f5b2adc6885b7d82c7c03888f3554f7c55d9a7f5e7830bc4b4",
+          "sha1": "ff0a3a07452dcc99bc7b49862eff953bbe225ca4",
+          "md5": "ffc8f152d620e292a6030bf8643e6310"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "com.chancetop",
+          "module": "litellm-library",
+          "version": {
+            "requires": "1.0.0-SNAPSHOT"
+          }
+        },
+        {
+          "group": "core.framework",
+          "module": "core-ng",
+          "version": {
+            "requires": "9.1.5"
+          }
+        },
+        {
+          "group": "com.google.guava",
+          "module": "guava",
+          "version": {
+            "requires": "33.3.1-jre"
+          }
+        },
+        {
+          "group": "com.theokanning.openai-gpt3-java",
+          "module": "client",
+          "version": {
+            "requires": "0.18.2"
+          }
+        },
+        {
+          "group": "com.azure",
+          "module": "azure-ai-openai",
+          "version": {
+            "requires": "1.0.0-beta.12"
+          }
+        },
+        {
+          "group": "com.github.spullara.mustache.java",
+          "module": "compiler",
+          "version": {
+            "requires": "0.9.10"
+          }
+        },
+        {
+          "group": "io.milvus",
+          "module": "milvus-sdk-java",
+          "version": {
+            "requires": "2.5.2"
+          }
+        },
+        {
+          "group": "io.modelcontextprotocol",
+          "module": "kotlin-sdk",
+          "version": {
+            "requires": "0.3.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "1.9.20"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "core-ai-1.0.0-SNAPSHOT.jar",
+          "url": "core-ai-1.0.0-SNAPSHOT.jar",
+          "size": 182274,
+          "sha512": "b7f0f329754c8c8ff2eb55573ba08d7e77fc843ebb83d6e26b736d4621ddbacab4cf6a0c2cccc2c5376323043fb1e280d790a79df94ca75b3689cb3218caa4c6",
+          "sha256": "88e1ec042fd083f5b2adc6885b7d82c7c03888f3554f7c55d9a7f5e7830bc4b4",
+          "sha1": "ff0a3a07452dcc99bc7b49862eff953bbe225ca4",
+          "md5": "ffc8f152d620e292a6030bf8643e6310"
+        }
+      ]
+    }
+  ]
+}
