@@ -1,0 +1,145 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.chancetop",
+    "module": "core-ai",
+    "version": "1.0.0-SNAPSHOT",
+    "attributes": {
+      "org.gradle.status": "integration"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.6"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "1.9.20"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "core-ai-1.0.0-SNAPSHOT.jar",
+          "url": "core-ai-1.0.0-SNAPSHOT.jar",
+          "size": 208318,
+          "sha512": "76e6c66a1e3ad9ac1dd797ba3382c4ff94a9d8de7e3eb55311747cd4448d2c109cb1bc93464a9eae3cb8f2eaf734515be3864a4c4c7124f32dcd2e0a2be275df",
+          "sha256": "fcd1b7414a4b956bde7bb0be735c4e67a5eb0c73e8772e6d16539252c79e615b",
+          "sha1": "ce56377c9da6c925efd2472da44362700e9924df",
+          "md5": "d0c3accfffe80a730d93d56aa4c56e94"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "com.chancetop",
+          "module": "litellm-library",
+          "version": {
+            "requires": "1.0.0-SNAPSHOT"
+          }
+        },
+        {
+          "group": "core.framework",
+          "module": "core-ng",
+          "version": {
+            "requires": "9.1.7"
+          }
+        },
+        {
+          "group": "com.azure",
+          "module": "azure-ai-openai",
+          "version": {
+            "requires": "1.0.0-beta.12"
+          }
+        },
+        {
+          "group": "com.azure",
+          "module": "azure-ai-inference",
+          "version": {
+            "requires": "1.0.0-beta.3"
+          }
+        },
+        {
+          "group": "com.github.spullara.mustache.java",
+          "module": "compiler",
+          "version": {
+            "requires": "0.9.10"
+          }
+        },
+        {
+          "group": "io.milvus",
+          "module": "milvus-sdk-java",
+          "version": {
+            "requires": "2.5.2"
+          }
+        },
+        {
+          "group": "io.modelcontextprotocol",
+          "module": "kotlin-sdk",
+          "version": {
+            "requires": "0.3.0"
+          }
+        },
+        {
+          "group": "com.github.jelmerk",
+          "module": "hnswlib-core",
+          "version": {
+            "requires": "1.2.0"
+          }
+        },
+        {
+          "group": "com.github.jelmerk",
+          "module": "hnswlib-utils",
+          "version": {
+            "requires": "1.2.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "1.9.20"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "core-ai-1.0.0-SNAPSHOT.jar",
+          "url": "core-ai-1.0.0-SNAPSHOT.jar",
+          "size": 208318,
+          "sha512": "76e6c66a1e3ad9ac1dd797ba3382c4ff94a9d8de7e3eb55311747cd4448d2c109cb1bc93464a9eae3cb8f2eaf734515be3864a4c4c7124f32dcd2e0a2be275df",
+          "sha256": "fcd1b7414a4b956bde7bb0be735c4e67a5eb0c73e8772e6d16539252c79e615b",
+          "sha1": "ce56377c9da6c925efd2472da44362700e9924df",
+          "md5": "d0c3accfffe80a730d93d56aa4c56e94"
+        }
+      ]
+    }
+  ]
+}
