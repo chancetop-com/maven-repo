@@ -38,11 +38,11 @@
         {
           "name": "core-ai-1.0.0-SNAPSHOT.jar",
           "url": "core-ai-1.0.0-SNAPSHOT.jar",
-          "size": 191788,
-          "sha512": "1033a0ed80b245c9d36514f7c4b8989e43049ff656ad60e835b0da0ecf5da5cc73b4b56278029372953164a50f9975179f3e6bdd31975082ec5a9c5f6153be3e",
-          "sha256": "b3b200046512a64e3751752990c553f468c02ed9e9aa9adb7db2bf12a0b8c131",
-          "sha1": "936d4d465e642fc44aa498bff9fa0315fe5f3dce",
-          "md5": "b353b1c5e981b7f2e0219022557e5a21"
+          "size": 227092,
+          "sha512": "b4ca8b00ca02a4db734e35885e223baee23afd07f7549d6e824e535edd1dd8e84035c156319ae14893f09df2746f26fc8a8cf6827b9204f6e46fb94f60ca4fc5",
+          "sha256": "577f1fdcaab839dd94f6e27757fde4862531f6f35ae2a6bf8a1ca59021353ff7",
+          "sha1": "ffa64dab4efd22a2f308e12f28596e9c7fde8651",
+          "md5": "d882a632e577b63ed66890dfc66aca72"
         }
       ]
     },
@@ -73,20 +73,6 @@
           }
         },
         {
-          "group": "com.google.guava",
-          "module": "guava",
-          "version": {
-            "requires": "33.3.1-jre"
-          }
-        },
-        {
-          "group": "com.theokanning.openai-gpt3-java",
-          "module": "client",
-          "version": {
-            "requires": "0.18.2"
-          }
-        },
-        {
           "group": "com.azure",
           "module": "azure-ai-openai",
           "version": {
@@ -97,7 +83,7 @@
           "group": "com.azure",
           "module": "azure-ai-inference",
           "version": {
-            "requires": "1.0.0-beta.3"
+            "requires": "1.0.0-beta.4"
           }
         },
         {
@@ -122,6 +108,27 @@
           }
         },
         {
+          "group": "com.github.jelmerk",
+          "module": "hnswlib-core",
+          "version": {
+            "requires": "1.2.0"
+          }
+        },
+        {
+          "group": "com.github.jelmerk",
+          "module": "hnswlib-utils",
+          "version": {
+            "requires": "1.2.0"
+          }
+        },
+        {
+          "group": "com.knuddels",
+          "module": "jtokkit",
+          "version": {
+            "requires": "1.1.0"
+          }
+        },
+        {
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib",
           "version": {
@@ -133,11 +140,11 @@
         {
           "name": "core-ai-1.0.0-SNAPSHOT.jar",
           "url": "core-ai-1.0.0-SNAPSHOT.jar",
-          "size": 191788,
-          "sha512": "1033a0ed80b245c9d36514f7c4b8989e43049ff656ad60e835b0da0ecf5da5cc73b4b56278029372953164a50f9975179f3e6bdd31975082ec5a9c5f6153be3e",
-          "sha256": "b3b200046512a64e3751752990c553f468c02ed9e9aa9adb7db2bf12a0b8c131",
-          "sha1": "936d4d465e642fc44aa498bff9fa0315fe5f3dce",
-          "md5": "b353b1c5e981b7f2e0219022557e5a21"
+          "size": 227092,
+          "sha512": "b4ca8b00ca02a4db734e35885e223baee23afd07f7549d6e824e535edd1dd8e84035c156319ae14893f09df2746f26fc8a8cf6827b9204f6e46fb94f60ca4fc5",
+          "sha256": "577f1fdcaab839dd94f6e27757fde4862531f6f35ae2a6bf8a1ca59021353ff7",
+          "sha1": "ffa64dab4efd22a2f308e12f28596e9c7fde8651",
+          "md5": "d882a632e577b63ed66890dfc66aca72"
         }
       ]
     }
