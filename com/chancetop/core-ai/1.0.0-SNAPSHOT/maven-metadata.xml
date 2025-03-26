@@ -3,32 +3,32 @@
   <groupId>com.chancetop</groupId>
   <artifactId>core-ai</artifactId>
   <versioning>
-    <lastUpdated>20250324054136</lastUpdated>
+    <lastUpdated>20250326100945</lastUpdated>
     <snapshot>
-      <timestamp>20250324.054136</timestamp>
-      <buildNumber>11</buildNumber>
+      <timestamp>20250326.100945</timestamp>
+      <buildNumber>12</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.0.0-20250324.054136-11</value>
-        <updated>20250324054136</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <extension>jar</extension>
-        <value>1.0.0-20250324.054136-11</value>
-        <updated>20250324054136</updated>
+        <value>1.0.0-20250326.100945-12</value>
+        <updated>20250326100945</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>1.0.0-20250324.054136-11</value>
-        <updated>20250324054136</updated>
+        <value>1.0.0-20250326.100945-12</value>
+        <updated>20250326100945</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.0.0-20250326.100945-12</value>
+        <updated>20250326100945</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>module</extension>
-        <value>1.0.0-20250324.054136-11</value>
-        <updated>20250324054136</updated>
+        <value>1.0.0-20250326.100945-12</value>
+        <updated>20250326100945</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
