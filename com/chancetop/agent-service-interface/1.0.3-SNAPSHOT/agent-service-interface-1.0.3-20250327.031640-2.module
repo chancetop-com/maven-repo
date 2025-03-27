@@ -27,11 +27,11 @@
         {
           "name": "agent-service-interface-1.0.3-SNAPSHOT.jar",
           "url": "agent-service-interface-1.0.3-SNAPSHOT.jar",
-          "size": 5749,
-          "sha512": "0f3413010d87ac9f7b80fda20de31fef0a0e433298f877b7a3d390bb0eaf130adf5931868e5620e543c9d4aeb38ee3df9755de5b210f1655edc85cd4034e6213",
-          "sha256": "95e2018f02e07e42cf3b987a268452c0bad7b7e9c0e65d700313c367ded72d71",
-          "sha1": "6efc32a06665d53b39a3f072de1200b5532e9445",
-          "md5": "5edc338b218c1b4c0a109f7bf618ebd6"
+          "size": 9035,
+          "sha512": "083d0675f5576c3f59f9642fdcea67e2bd2e01db51ced5a69a0805e5c60ce64edb6bb3f44f6a8b1c7fb8d83d38b7ca692de580985a65d41581c74353f9591fc0",
+          "sha256": "65b8a4001195d0c7258b33176d5c931042062eff4bd8835657a9423ba0df7a6d",
+          "sha1": "e55472a4c657f96e96521cf82ce060ec48c3d643",
+          "md5": "2ce1dc9925b32dd0b68261a5058a97d0"
         }
       ]
     },
@@ -49,7 +49,7 @@
           "group": "core.framework",
           "module": "core-ng-api",
           "version": {
-            "requires": "9.1.5"
+            "requires": "9.1.7"
           }
         }
       ],
@@ -57,11 +57,11 @@
         {
           "name": "agent-service-interface-1.0.3-SNAPSHOT.jar",
           "url": "agent-service-interface-1.0.3-SNAPSHOT.jar",
-          "size": 5749,
-          "sha512": "0f3413010d87ac9f7b80fda20de31fef0a0e433298f877b7a3d390bb0eaf130adf5931868e5620e543c9d4aeb38ee3df9755de5b210f1655edc85cd4034e6213",
-          "sha256": "95e2018f02e07e42cf3b987a268452c0bad7b7e9c0e65d700313c367ded72d71",
-          "sha1": "6efc32a06665d53b39a3f072de1200b5532e9445",
-          "md5": "5edc338b218c1b4c0a109f7bf618ebd6"
+          "size": 9035,
+          "sha512": "083d0675f5576c3f59f9642fdcea67e2bd2e01db51ced5a69a0805e5c60ce64edb6bb3f44f6a8b1c7fb8d83d38b7ca692de580985a65d41581c74353f9591fc0",
+          "sha256": "65b8a4001195d0c7258b33176d5c931042062eff4bd8835657a9423ba0df7a6d",
+          "sha1": "e55472a4c657f96e96521cf82ce060ec48c3d643",
+          "md5": "2ce1dc9925b32dd0b68261a5058a97d0"
         }
       ]
     },
@@ -77,11 +77,11 @@
         {
           "name": "agent-service-interface-1.0.3-SNAPSHOT-sources.jar",
           "url": "agent-service-interface-1.0.3-SNAPSHOT-sources.jar",
-          "size": 4224,
-          "sha512": "587c2a6bc694b71bba28abdd6aeadd8fa54be0453f8a018258286fb8285b10ad20cd7bf2861a74960030035bc37c8f4594b57a83490ffb0a50ae900da540cab1",
-          "sha256": "a7ddfec5017c7d39a90dcb2b97db5b5a73ea0a23832347e4ce719d9d39c69b85",
-          "sha1": "beb3c8a99e8b79d7f20c1d80f9dd52a78f06c4e6",
-          "md5": "6c69ec8f10a2d47be08fabebda8ec09c"
+          "size": 6472,
+          "sha512": "8c881dee8a04e4671118b1039eb227842aab30a8eefdd0581e650b2e40a1d0b2534c410200493fe4b5addc68041bd08e7d2c6ca3c0b6bb0ae7ca829b7df5f805",
+          "sha256": "4b28106807086f71ff08c9698dd55f6242ca77120f9b8eaf95870ba8cbcc64e5",
+          "sha1": "f466c536134ceb0e7ae6207317db342cb39fcda7",
+          "md5": "c36d3ed353e396b69a0a7dccaa047b8d"
         }
       ]
     }
