@@ -38,11 +38,11 @@
         {
           "name": "core-ai-1.0.0-SNAPSHOT.jar",
           "url": "core-ai-1.0.0-SNAPSHOT.jar",
-          "size": 227092,
-          "sha512": "b4ca8b00ca02a4db734e35885e223baee23afd07f7549d6e824e535edd1dd8e84035c156319ae14893f09df2746f26fc8a8cf6827b9204f6e46fb94f60ca4fc5",
-          "sha256": "577f1fdcaab839dd94f6e27757fde4862531f6f35ae2a6bf8a1ca59021353ff7",
-          "sha1": "ffa64dab4efd22a2f308e12f28596e9c7fde8651",
-          "md5": "d882a632e577b63ed66890dfc66aca72"
+          "size": 215621,
+          "sha512": "a3421ee15e488df61e40aa5a7f3963607b7c6b8a4ebf079f5e422f772627304f5f42ef0688024bad06a72a87147d25172e6af3e33a2355b3bc8db153dcf72815",
+          "sha256": "5d1414153b93203b840c029b93462465d1625dd26d698b43e2e1891529b4a869",
+          "sha1": "5418c8bc6743e7b5918275e3a2473b8771477579",
+          "md5": "cc67e8c80b146a47fa2349b8e1af0fb5"
         }
       ]
     },
@@ -70,6 +70,13 @@
           "module": "core-ng",
           "version": {
             "requires": "9.1.7"
+          }
+        },
+        {
+          "group": "com.fasterxml.jackson.core",
+          "module": "jackson-core",
+          "version": {
+            "requires": "2.17.2"
           }
         },
         {
@@ -101,10 +108,10 @@
           }
         },
         {
-          "group": "io.modelcontextprotocol",
-          "module": "kotlin-sdk",
+          "group": "io.modelcontextprotocol.sdk",
+          "module": "mcp",
           "version": {
-            "requires": "0.3.0"
+            "requires": "0.8.0"
           }
         },
         {
@@ -140,11 +147,11 @@
         {
           "name": "core-ai-1.0.0-SNAPSHOT.jar",
           "url": "core-ai-1.0.0-SNAPSHOT.jar",
-          "size": 227092,
-          "sha512": "b4ca8b00ca02a4db734e35885e223baee23afd07f7549d6e824e535edd1dd8e84035c156319ae14893f09df2746f26fc8a8cf6827b9204f6e46fb94f60ca4fc5",
-          "sha256": "577f1fdcaab839dd94f6e27757fde4862531f6f35ae2a6bf8a1ca59021353ff7",
-          "sha1": "ffa64dab4efd22a2f308e12f28596e9c7fde8651",
-          "md5": "d882a632e577b63ed66890dfc66aca72"
+          "size": 215621,
+          "sha512": "a3421ee15e488df61e40aa5a7f3963607b7c6b8a4ebf079f5e422f772627304f5f42ef0688024bad06a72a87147d25172e6af3e33a2355b3bc8db153dcf72815",
+          "sha256": "5d1414153b93203b840c029b93462465d1625dd26d698b43e2e1891529b4a869",
+          "sha1": "5418c8bc6743e7b5918275e3a2473b8771477579",
+          "md5": "cc67e8c80b146a47fa2349b8e1af0fb5"
         }
       ]
     }
