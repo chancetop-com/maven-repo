@@ -27,11 +27,11 @@
         {
           "name": "litellm-library-1.0.0-SNAPSHOT.jar",
           "url": "litellm-library-1.0.0-SNAPSHOT.jar",
-          "size": 27233,
-          "sha512": "f08893491033e5eeab5d563cf5305fc29fa78cb91381800148c8113362f283640d97b8d9e4065e19b4dc13f242645d6a8b2c3e278b0952e063de92041f9d6fac",
-          "sha256": "3900d7fe72f220b49255541db9c1e8f6291387bf7edd5e6ee84d14034e0a9c20",
-          "sha1": "1d3357deef22787f55f3f415fba12d842aa7e885",
-          "md5": "c791a85f65153b1291b20442709aa49a"
+          "size": 27235,
+          "sha512": "e9ad5e15a940ea000026548e2f02fb64860822dc1114c7b2b68fb59a4f4ee41638e5dc088d89ceb865ce37c33882536a2fa2903d04407f1f6cea075d2040dc94",
+          "sha256": "d146a1b2a46fe9894496aaf340723d650f8cc8efd1b8079b6d3c3bf3607b7c6f",
+          "sha1": "8e74670a19338557b28dbccbb1765768b91bad08",
+          "md5": "691a05ec77d4ae03143901106a8a1ac6"
         }
       ]
     },
@@ -71,11 +71,11 @@
         {
           "name": "litellm-library-1.0.0-SNAPSHOT.jar",
           "url": "litellm-library-1.0.0-SNAPSHOT.jar",
-          "size": 27233,
-          "sha512": "f08893491033e5eeab5d563cf5305fc29fa78cb91381800148c8113362f283640d97b8d9e4065e19b4dc13f242645d6a8b2c3e278b0952e063de92041f9d6fac",
-          "sha256": "3900d7fe72f220b49255541db9c1e8f6291387bf7edd5e6ee84d14034e0a9c20",
-          "sha1": "1d3357deef22787f55f3f415fba12d842aa7e885",
-          "md5": "c791a85f65153b1291b20442709aa49a"
+          "size": 27235,
+          "sha512": "e9ad5e15a940ea000026548e2f02fb64860822dc1114c7b2b68fb59a4f4ee41638e5dc088d89ceb865ce37c33882536a2fa2903d04407f1f6cea075d2040dc94",
+          "sha256": "d146a1b2a46fe9894496aaf340723d650f8cc8efd1b8079b6d3c3bf3607b7c6f",
+          "sha1": "8e74670a19338557b28dbccbb1765768b91bad08",
+          "md5": "691a05ec77d4ae03143901106a8a1ac6"
         }
       ]
     }
