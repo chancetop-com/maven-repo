@@ -1,0 +1,76 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.chancetop",
+    "module": "language-server-library",
+    "version": "1.0.0-SNAPSHOT",
+    "attributes": {
+      "org.gradle.status": "integration"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.6"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "language-server-library-1.0.0-SNAPSHOT.jar",
+          "url": "language-server-library-1.0.0-SNAPSHOT.jar",
+          "size": 21991,
+          "sha512": "ee50ada28ed1691a54ae31f8960ca9c6bbbe178d21561b4cb33879216ab5a763b444f0b8aac5bdda8b3ad18bca7f0866465f8a7f2d129f2b87f24d3d70e49dfe",
+          "sha256": "0f4937cf48d85245dc3718f5998d1121abbe8ad3a6fd896fbc3dbf24e6dea9e5",
+          "sha1": "2dfabc951dc055af2f5f26c449a4bfdb171b8b71",
+          "md5": "a95e9188df8d714a26aa2589e307ea7b"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "core.framework",
+          "module": "core-ng",
+          "version": {
+            "requires": "9.1.7"
+          }
+        },
+        {
+          "group": "org.eclipse.lsp4j",
+          "module": "org.eclipse.lsp4j",
+          "version": {
+            "requires": "0.23.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "language-server-library-1.0.0-SNAPSHOT.jar",
+          "url": "language-server-library-1.0.0-SNAPSHOT.jar",
+          "size": 21991,
+          "sha512": "ee50ada28ed1691a54ae31f8960ca9c6bbbe178d21561b4cb33879216ab5a763b444f0b8aac5bdda8b3ad18bca7f0866465f8a7f2d129f2b87f24d3d70e49dfe",
+          "sha256": "0f4937cf48d85245dc3718f5998d1121abbe8ad3a6fd896fbc3dbf24e6dea9e5",
+          "sha1": "2dfabc951dc055af2f5f26c449a4bfdb171b8b71",
+          "md5": "a95e9188df8d714a26aa2589e307ea7b"
+        }
+      ]
+    }
+  ]
+}
