@@ -38,11 +38,11 @@
         {
           "name": "core-ai-1.0.0-SNAPSHOT.jar",
           "url": "core-ai-1.0.0-SNAPSHOT.jar",
-          "size": 346258,
-          "sha512": "df836e7e80f09d76645c3dd60d84deab32e494913f8db5beb71c0297b6e4911816a678853b6aae95bcf7353540622fbdb6a1db479c03fd55798990c1521ef925",
-          "sha256": "8d0156e35ccca9a71fee2659d3c46311ab7f6db84c507945267c41c0dc938769",
-          "sha1": "21e4297c25e86d199671557b02284585c606dabe",
-          "md5": "407887500c668b9bcffeeeab88b79ae7"
+          "size": 346259,
+          "sha512": "0d92cf3e79e43b6af489adfd7970db47af8e9ba6ff84883eb08c27cf2c3141582f4dea8bb4847a3a07dbc4f92077860b1049d6b1764a0710b1aa0e1125f13eff",
+          "sha256": "bcfd2979c4051fac5a4c2b43218b6969913237dcf4ff3f872f48bf0316ac5b95",
+          "sha1": "cf2545aa551d4e7bb33bdb1803ad180f7ed7e45b",
+          "md5": "dc2ca87a280229cd9b80cd1f73fc7ea3"
         }
       ]
     },
@@ -147,11 +147,11 @@
         {
           "name": "core-ai-1.0.0-SNAPSHOT.jar",
           "url": "core-ai-1.0.0-SNAPSHOT.jar",
-          "size": 346258,
-          "sha512": "df836e7e80f09d76645c3dd60d84deab32e494913f8db5beb71c0297b6e4911816a678853b6aae95bcf7353540622fbdb6a1db479c03fd55798990c1521ef925",
-          "sha256": "8d0156e35ccca9a71fee2659d3c46311ab7f6db84c507945267c41c0dc938769",
-          "sha1": "21e4297c25e86d199671557b02284585c606dabe",
-          "md5": "407887500c668b9bcffeeeab88b79ae7"
+          "size": 346259,
+          "sha512": "0d92cf3e79e43b6af489adfd7970db47af8e9ba6ff84883eb08c27cf2c3141582f4dea8bb4847a3a07dbc4f92077860b1049d6b1764a0710b1aa0e1125f13eff",
+          "sha256": "bcfd2979c4051fac5a4c2b43218b6969913237dcf4ff3f872f48bf0316ac5b95",
+          "sha1": "cf2545aa551d4e7bb33bdb1803ad180f7ed7e45b",
+          "md5": "dc2ca87a280229cd9b80cd1f73fc7ea3"
         }
       ]
     }
