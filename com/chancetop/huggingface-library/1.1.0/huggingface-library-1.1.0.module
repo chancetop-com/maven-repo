@@ -1,0 +1,83 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.chancetop",
+    "module": "huggingface-library",
+    "version": "1.1.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.6"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "huggingface-library-1.1.0.jar",
+          "url": "huggingface-library-1.1.0.jar",
+          "size": 20615,
+          "sha512": "8e0e8fcc11d803a4449582bb219f42325e50110dc6e64a2a3903d4fd1130b9c103527e618ef1771fb1c06e1d3bfd59649a29b52c2cd2b12e0937fb27577c2ae1",
+          "sha256": "892959ea010c8702f76257572c947e783c048e7867e1d5a9a1347c142af52638",
+          "sha1": "d2a14e9c4872d35fa14b0aaebdb21bf907fb9f03",
+          "md5": "b5734f8ee6b13de5d9703aab98ee6a08"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "core.framework",
+          "module": "core-ng",
+          "version": {
+            "requires": "9.1.8"
+          }
+        },
+        {
+          "group": "com.fasterxml.jackson.core",
+          "module": "jackson-core",
+          "version": {
+            "requires": "2.17.2"
+          }
+        },
+        {
+          "group": "com.fasterxml.jackson.datatype",
+          "module": "jackson-datatype-jsr310",
+          "version": {
+            "requires": "2.17.2"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "huggingface-library-1.1.0.jar",
+          "url": "huggingface-library-1.1.0.jar",
+          "size": 20615,
+          "sha512": "8e0e8fcc11d803a4449582bb219f42325e50110dc6e64a2a3903d4fd1130b9c103527e618ef1771fb1c06e1d3bfd59649a29b52c2cd2b12e0937fb27577c2ae1",
+          "sha256": "892959ea010c8702f76257572c947e783c048e7867e1d5a9a1347c142af52638",
+          "sha1": "d2a14e9c4872d35fa14b0aaebdb21bf907fb9f03",
+          "md5": "b5734f8ee6b13de5d9703aab98ee6a08"
+        }
+      ]
+    }
+  ]
+}
