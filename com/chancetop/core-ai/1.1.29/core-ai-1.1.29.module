@@ -3,7 +3,7 @@
   "component": {
     "group": "com.chancetop",
     "module": "core-ai",
-    "version": "1.1.27",
+    "version": "1.1.29",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -25,13 +25,13 @@
       },
       "files": [
         {
-          "name": "core-ai-1.1.27.jar",
-          "url": "core-ai-1.1.27.jar",
-          "size": 380760,
-          "sha512": "7eddb86d3ca5d2397201ce249990fff5b1a01f66b1e3e4209da9bfb3b5965ecb899dfc3a0f1a1986615b8913a16e613b2e272409045816db12b5dd700d058c76",
-          "sha256": "e49928ea419d8d4a7b8ef0d28924e618b0c07790121c3c6843cddce2a80c7772",
-          "sha1": "d0e93464d38c1d87c7ab4ba699de5389fabdfb38",
-          "md5": "45630bf6a4dd0179a8afca9b3223f9b9"
+          "name": "core-ai-1.1.29.jar",
+          "url": "core-ai-1.1.29.jar",
+          "size": 380814,
+          "sha512": "ccb0ea3fefd0dc52f497390a705a5ac150470cd3e7f5de89dd067ec43eed07a2a9b2c2280af2f29cf5f3f7b87b52aa0c3ac3257334e6123a65ce67e21e134c9d",
+          "sha256": "6c9a961e25ef484b428c3417ab530de2618b1e269c2e907d8f26129409073905",
+          "sha1": "824208b641525abec8146f3e601af560759e44ac",
+          "md5": "c48badc38b7c44b581847943a7f21d4e"
         }
       ]
     },
@@ -125,13 +125,13 @@
       ],
       "files": [
         {
-          "name": "core-ai-1.1.27.jar",
-          "url": "core-ai-1.1.27.jar",
-          "size": 380760,
-          "sha512": "7eddb86d3ca5d2397201ce249990fff5b1a01f66b1e3e4209da9bfb3b5965ecb899dfc3a0f1a1986615b8913a16e613b2e272409045816db12b5dd700d058c76",
-          "sha256": "e49928ea419d8d4a7b8ef0d28924e618b0c07790121c3c6843cddce2a80c7772",
-          "sha1": "d0e93464d38c1d87c7ab4ba699de5389fabdfb38",
-          "md5": "45630bf6a4dd0179a8afca9b3223f9b9"
+          "name": "core-ai-1.1.29.jar",
+          "url": "core-ai-1.1.29.jar",
+          "size": 380814,
+          "sha512": "ccb0ea3fefd0dc52f497390a705a5ac150470cd3e7f5de89dd067ec43eed07a2a9b2c2280af2f29cf5f3f7b87b52aa0c3ac3257334e6123a65ce67e21e134c9d",
+          "sha256": "6c9a961e25ef484b428c3417ab530de2618b1e269c2e907d8f26129409073905",
+          "sha1": "824208b641525abec8146f3e601af560759e44ac",
+          "md5": "c48badc38b7c44b581847943a7f21d4e"
         }
       ]
     }
