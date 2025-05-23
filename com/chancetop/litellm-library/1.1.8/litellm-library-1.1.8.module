@@ -1,0 +1,83 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.chancetop",
+    "module": "litellm-library",
+    "version": "1.1.8",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.6"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "litellm-library-1.1.8.jar",
+          "url": "litellm-library-1.1.8.jar",
+          "size": 27277,
+          "sha512": "2e97f6dbd47ecc029108e8b6a24d150832c54b55532c17af6b915cad1735dbd1d5a30a32fa7420d3f04774afb0de675df5b63df7fa6627424b3b01e5cc350bb2",
+          "sha256": "771c601ee07f1c549e782f9bd4807d77c928be365a9eb1da1d7b0097ec6052d7",
+          "sha1": "cd42cf8e1354ae39905ba7d8a98e70b4d42ed82d",
+          "md5": "5add606976969a20b3873534340dfdb2"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "core.framework",
+          "module": "core-ng",
+          "version": {
+            "requires": "9.1.8"
+          }
+        },
+        {
+          "group": "com.fasterxml.jackson.core",
+          "module": "jackson-core",
+          "version": {
+            "requires": "2.17.2"
+          }
+        },
+        {
+          "group": "com.fasterxml.jackson.datatype",
+          "module": "jackson-datatype-jsr310",
+          "version": {
+            "requires": "2.17.2"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "litellm-library-1.1.8.jar",
+          "url": "litellm-library-1.1.8.jar",
+          "size": 27277,
+          "sha512": "2e97f6dbd47ecc029108e8b6a24d150832c54b55532c17af6b915cad1735dbd1d5a30a32fa7420d3f04774afb0de675df5b63df7fa6627424b3b01e5cc350bb2",
+          "sha256": "771c601ee07f1c549e782f9bd4807d77c928be365a9eb1da1d7b0097ec6052d7",
+          "sha1": "cd42cf8e1354ae39905ba7d8a98e70b4d42ed82d",
+          "md5": "5add606976969a20b3873534340dfdb2"
+        }
+      ]
+    }
+  ]
+}
