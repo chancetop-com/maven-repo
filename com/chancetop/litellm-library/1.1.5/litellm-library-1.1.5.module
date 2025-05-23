@@ -3,7 +3,7 @@
   "component": {
     "group": "com.chancetop",
     "module": "litellm-library",
-    "version": "1.1.4",
+    "version": "1.1.5",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -25,13 +25,13 @@
       },
       "files": [
         {
-          "name": "litellm-library-1.1.4.jar",
-          "url": "litellm-library-1.1.4.jar",
-          "size": 27253,
-          "sha512": "174a1209b19af2a91285505d96aa3753daa96e5b3cc004a7dae1e4d051eba6772be5ba0f23fea347e43d57998e0458a25ee89649256223d3ef0383406c5a9783",
-          "sha256": "abf491cbe9a6fcaa7b8367605b83b2943b136dc81f5eed02f61e54da3f0295e1",
-          "sha1": "c0d218edd9077d9d231c12c296a9a2c6ba73dfd7",
-          "md5": "c72b3bbdb33e94ecf01674d26ad1e074"
+          "name": "litellm-library-1.1.5.jar",
+          "url": "litellm-library-1.1.5.jar",
+          "size": 27120,
+          "sha512": "061e91ea4ea416d1becc4ac336576cf7ca1e1f5e5bbb51e9607356b6cb64a3ab31024af5e91444d58dd672d5cf6d515f788e68dc9ca1271fbfff7cf1c670cfd5",
+          "sha256": "407c9bc2b0ca2b407474bcec2d0546bc2b29bfabc9845ca51ff656837dad191a",
+          "sha1": "9c474baff79a3b774e9a1bc27682cb9b0e0934f0",
+          "md5": "5b6783ac962d4446831182a32e62aa47"
         }
       ]
     },
@@ -69,13 +69,13 @@
       ],
       "files": [
         {
-          "name": "litellm-library-1.1.4.jar",
-          "url": "litellm-library-1.1.4.jar",
-          "size": 27253,
-          "sha512": "174a1209b19af2a91285505d96aa3753daa96e5b3cc004a7dae1e4d051eba6772be5ba0f23fea347e43d57998e0458a25ee89649256223d3ef0383406c5a9783",
-          "sha256": "abf491cbe9a6fcaa7b8367605b83b2943b136dc81f5eed02f61e54da3f0295e1",
-          "sha1": "c0d218edd9077d9d231c12c296a9a2c6ba73dfd7",
-          "md5": "c72b3bbdb33e94ecf01674d26ad1e074"
+          "name": "litellm-library-1.1.5.jar",
+          "url": "litellm-library-1.1.5.jar",
+          "size": 27120,
+          "sha512": "061e91ea4ea416d1becc4ac336576cf7ca1e1f5e5bbb51e9607356b6cb64a3ab31024af5e91444d58dd672d5cf6d515f788e68dc9ca1271fbfff7cf1c670cfd5",
+          "sha256": "407c9bc2b0ca2b407474bcec2d0546bc2b29bfabc9845ca51ff656837dad191a",
+          "sha1": "9c474baff79a3b774e9a1bc27682cb9b0e0934f0",
+          "md5": "5b6783ac962d4446831182a32e62aa47"
         }
       ]
     }
