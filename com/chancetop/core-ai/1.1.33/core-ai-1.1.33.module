@@ -3,7 +3,7 @@
   "component": {
     "group": "com.chancetop",
     "module": "core-ai",
-    "version": "1.1.32",
+    "version": "1.1.33",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -25,13 +25,13 @@
       },
       "files": [
         {
-          "name": "core-ai-1.1.32.jar",
-          "url": "core-ai-1.1.32.jar",
+          "name": "core-ai-1.1.33.jar",
+          "url": "core-ai-1.1.33.jar",
           "size": 380954,
-          "sha512": "b0edd7930b9d0e8f242e155e3667f43bd5fd0d4ad2a033f36bd58b85ba30ce375bf519e48e11057d07fdc6b25021aee5d07ade2fed0850b363494407b2c53e33",
-          "sha256": "8e7c1d0e7d012d98eefdb7050dec8b85c4b8a19434ba436c6dff21379ab680ff",
-          "sha1": "23abcaccb71a19147828634e171a5bcdc1acd0c9",
-          "md5": "f254de17c748b772dd1acb967725e9f5"
+          "sha512": "147fccf0d312b13682af7bec4992310170dcdf7803c909456e61fd77c988b0bef1647016707dab1965346bca09b1db5bc2c921812eeb871f9aa52da00411ba64",
+          "sha256": "5bad0c277fc0d6060c544fbf0cee42b0d9cc732928abae6c22ddcec1da8e6b6a",
+          "sha1": "94cbfe0a040d56f838f4cf6b4c71e32ac6eed5eb",
+          "md5": "9c19f46febff48c17fcf02e53c501ac9"
         }
       ]
     },
@@ -56,7 +56,7 @@
           "group": "com.chancetop",
           "module": "litellm-library",
           "version": {
-            "requires": "1.1.4"
+            "requires": "1.1.5"
           }
         },
         {
@@ -125,13 +125,13 @@
       ],
       "files": [
         {
-          "name": "core-ai-1.1.32.jar",
-          "url": "core-ai-1.1.32.jar",
+          "name": "core-ai-1.1.33.jar",
+          "url": "core-ai-1.1.33.jar",
           "size": 380954,
-          "sha512": "b0edd7930b9d0e8f242e155e3667f43bd5fd0d4ad2a033f36bd58b85ba30ce375bf519e48e11057d07fdc6b25021aee5d07ade2fed0850b363494407b2c53e33",
-          "sha256": "8e7c1d0e7d012d98eefdb7050dec8b85c4b8a19434ba436c6dff21379ab680ff",
-          "sha1": "23abcaccb71a19147828634e171a5bcdc1acd0c9",
-          "md5": "f254de17c748b772dd1acb967725e9f5"
+          "sha512": "147fccf0d312b13682af7bec4992310170dcdf7803c909456e61fd77c988b0bef1647016707dab1965346bca09b1db5bc2c921812eeb871f9aa52da00411ba64",
+          "sha256": "5bad0c277fc0d6060c544fbf0cee42b0d9cc732928abae6c22ddcec1da8e6b6a",
+          "sha1": "94cbfe0a040d56f838f4cf6b4c71e32ac6eed5eb",
+          "md5": "9c19f46febff48c17fcf02e53c501ac9"
         }
       ]
     }
