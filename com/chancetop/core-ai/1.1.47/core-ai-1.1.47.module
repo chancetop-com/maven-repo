@@ -1,0 +1,139 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.chancetop",
+    "module": "core-ai",
+    "version": "1.1.47",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.6"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "core-ai-1.1.47.jar",
+          "url": "core-ai-1.1.47.jar",
+          "size": 383870,
+          "sha512": "4b01b8c661502bcf8d6fa4ffa074f5603ea13110ba0b502c863e3babac0b613749a37112c0cfffae40bbf743804d986b3a667accc7a4d1eb405768b4f5c8ebe3",
+          "sha256": "f5b40c43de44a70d5288ec14b5cbc64e451ce162d699fe5d2e02c2b675d74c0b",
+          "sha1": "dcc4e1f7f28e4b6aa31fdbacf5af5f85a9b2821d",
+          "md5": "4f5452ef88023c352385d389370d9382"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.chancetop",
+          "module": "core-ai-api",
+          "version": {
+            "requires": "1.1.6"
+          }
+        },
+        {
+          "group": "com.chancetop",
+          "module": "litellm-library",
+          "version": {
+            "requires": "1.1.9"
+          }
+        },
+        {
+          "group": "core.framework",
+          "module": "core-ng",
+          "version": {
+            "requires": "9.1.8"
+          }
+        },
+        {
+          "group": "com.fasterxml.jackson.core",
+          "module": "jackson-core",
+          "version": {
+            "requires": "2.17.2"
+          }
+        },
+        {
+          "group": "com.azure",
+          "module": "azure-ai-openai",
+          "version": {
+            "requires": "1.0.0-beta.12"
+          }
+        },
+        {
+          "group": "com.azure",
+          "module": "azure-ai-inference",
+          "version": {
+            "requires": "1.0.0-beta.4"
+          }
+        },
+        {
+          "group": "com.github.spullara.mustache.java",
+          "module": "compiler",
+          "version": {
+            "requires": "0.9.10"
+          }
+        },
+        {
+          "group": "io.milvus",
+          "module": "milvus-sdk-java",
+          "version": {
+            "requires": "2.5.2"
+          }
+        },
+        {
+          "group": "com.github.jelmerk",
+          "module": "hnswlib-core",
+          "version": {
+            "requires": "1.2.0"
+          }
+        },
+        {
+          "group": "com.github.jelmerk",
+          "module": "hnswlib-utils",
+          "version": {
+            "requires": "1.2.0"
+          }
+        },
+        {
+          "group": "com.knuddels",
+          "module": "jtokkit",
+          "version": {
+            "requires": "1.1.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "core-ai-1.1.47.jar",
+          "url": "core-ai-1.1.47.jar",
+          "size": 383870,
+          "sha512": "4b01b8c661502bcf8d6fa4ffa074f5603ea13110ba0b502c863e3babac0b613749a37112c0cfffae40bbf743804d986b3a667accc7a4d1eb405768b4f5c8ebe3",
+          "sha256": "f5b40c43de44a70d5288ec14b5cbc64e451ce162d699fe5d2e02c2b675d74c0b",
+          "sha1": "dcc4e1f7f28e4b6aa31fdbacf5af5f85a9b2821d",
+          "md5": "4f5452ef88023c352385d389370d9382"
+        }
+      ]
+    }
+  ]
+}
