@@ -3,7 +3,7 @@
   "component": {
     "group": "com.chancetop",
     "module": "core-ai",
-    "version": "1.1.57",
+    "version": "1.1.58",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -25,13 +25,13 @@
       },
       "files": [
         {
-          "name": "core-ai-1.1.57.jar",
-          "url": "core-ai-1.1.57.jar",
-          "size": 380427,
-          "sha512": "746e72507b884f9e50f1bf16cd353ecadfa2ba84402d8d8cb3c094b4f0c58a23a36170d559976dd926ae9dc8b632832f7c595279280782829475ce6bde954aec",
-          "sha256": "2f603aba1ff443d56f3daa2533285260ea186dfe8037da54ebfe349f375590c9",
-          "sha1": "ea7d715cad5dcdfd7cfee6c175b5fc2210bc4cf2",
-          "md5": "2d8f6a04bc778c89a4e9553e324f1c32"
+          "name": "core-ai-1.1.58.jar",
+          "url": "core-ai-1.1.58.jar",
+          "size": 381051,
+          "sha512": "732d1371ba2e9eaff7713e4a9c95a1e2bff379c2ed02b631886b8e118b5ff9085fdd0f440ec406cf13f9b387cf598134fac30c8e4beee1973c67c7947c4e0c54",
+          "sha256": "faa9dcf960f486ef44fa9f878d9a92c9842a6dee697ebc644c5d05db4b7cc1ba",
+          "sha1": "4a8cb1c8e4c410fe28a34d12eccc96841732ba08",
+          "md5": "a16510197329a2112e74212a551f82b9"
         }
       ]
     },
@@ -77,7 +77,7 @@
           "group": "com.azure",
           "module": "azure-ai-inference",
           "version": {
-            "requires": "1.0.0-beta.4"
+            "requires": "1.0.0-beta.5"
           }
         },
         {
@@ -118,13 +118,13 @@
       ],
       "files": [
         {
-          "name": "core-ai-1.1.57.jar",
-          "url": "core-ai-1.1.57.jar",
-          "size": 380427,
-          "sha512": "746e72507b884f9e50f1bf16cd353ecadfa2ba84402d8d8cb3c094b4f0c58a23a36170d559976dd926ae9dc8b632832f7c595279280782829475ce6bde954aec",
-          "sha256": "2f603aba1ff443d56f3daa2533285260ea186dfe8037da54ebfe349f375590c9",
-          "sha1": "ea7d715cad5dcdfd7cfee6c175b5fc2210bc4cf2",
-          "md5": "2d8f6a04bc778c89a4e9553e324f1c32"
+          "name": "core-ai-1.1.58.jar",
+          "url": "core-ai-1.1.58.jar",
+          "size": 381051,
+          "sha512": "732d1371ba2e9eaff7713e4a9c95a1e2bff379c2ed02b631886b8e118b5ff9085fdd0f440ec406cf13f9b387cf598134fac30c8e4beee1973c67c7947c4e0c54",
+          "sha256": "faa9dcf960f486ef44fa9f878d9a92c9842a6dee697ebc644c5d05db4b7cc1ba",
+          "sha1": "4a8cb1c8e4c410fe28a34d12eccc96841732ba08",
+          "md5": "a16510197329a2112e74212a551f82b9"
         }
       ]
     }
