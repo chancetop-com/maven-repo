@@ -9,7 +9,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.chancetop</groupId>
   <artifactId>core-ai</artifactId>
-  <version>1.1.64</version>
+  <version>1.1.65</version>
   <dependencies>
     <dependency>
       <groupId>com.chancetop</groupId>
@@ -18,9 +18,15 @@
       <scope>runtime</scope>
     </dependency>
     <dependency>
+      <groupId>com.chancetop</groupId>
+      <artifactId>core-ai-mcp</artifactId>
+      <version>unspecified</version>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
       <groupId>core.framework</groupId>
       <artifactId>core-ng</artifactId>
-      <version>9.1.8</version>
+      <version>9.2.2</version>
       <scope>runtime</scope>
     </dependency>
     <dependency>

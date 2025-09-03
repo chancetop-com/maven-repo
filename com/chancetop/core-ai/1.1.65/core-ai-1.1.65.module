@@ -3,14 +3,14 @@
   "component": {
     "group": "com.chancetop",
     "module": "core-ai",
-    "version": "1.1.64",
+    "version": "1.1.65",
     "attributes": {
       "org.gradle.status": "release"
     }
   },
   "createdBy": {
     "gradle": {
-      "version": "8.6"
+      "version": "8.14"
     }
   },
   "variants": [
@@ -19,19 +19,19 @@
       "attributes": {
         "org.gradle.category": "library",
         "org.gradle.dependency.bundling": "external",
-        "org.gradle.jvm.version": 21,
+        "org.gradle.jvm.version": 24,
         "org.gradle.libraryelements": "jar",
         "org.gradle.usage": "java-api"
       },
       "files": [
         {
-          "name": "core-ai-1.1.64.jar",
-          "url": "core-ai-1.1.64.jar",
-          "size": 377451,
-          "sha512": "1707de824b6a8afe8768bdd707993c5c5b88a82f5a467136ed975b46b09edd07c2e1060b38f33eff0ff459d2473268ed76d40ed30a506830074545064f7d4893",
-          "sha256": "dccccec3868e3ad88ec37f29a51e2f0774428d9e7efa9c3b980122aeee6728f1",
-          "sha1": "3aa3cad4e47b5fcf71795bbbc5360028aee1e15a",
-          "md5": "1af2d47a51f7472b7eaacc64dfe7bdc2"
+          "name": "core-ai-1.1.65.jar",
+          "url": "core-ai-1.1.65.jar",
+          "size": 386443,
+          "sha512": "b7fe62465f251f3f94ebfe90f4cbbacff91953c2bc41722dfe30037470b4821e371e2230287c18b14d022c4eccba99603b9945c90936703ab42efb393efc708d",
+          "sha256": "7743bd7152ba9eec0f018458e3d81d2a6a398fee9292426f1dd8d121bd8e7b94",
+          "sha1": "aca87d307ca1ed1cbe63463e1774191321d695af",
+          "md5": "d0f6a3cf754c9dbffdd7a6633a91db1b"
         }
       ]
     },
@@ -40,7 +40,7 @@
       "attributes": {
         "org.gradle.category": "library",
         "org.gradle.dependency.bundling": "external",
-        "org.gradle.jvm.version": 21,
+        "org.gradle.jvm.version": 24,
         "org.gradle.libraryelements": "jar",
         "org.gradle.usage": "java-runtime"
       },
@@ -53,10 +53,17 @@
           }
         },
         {
+          "group": "com.chancetop",
+          "module": "core-ai-mcp",
+          "version": {
+            "requires": "unspecified"
+          }
+        },
+        {
           "group": "core.framework",
           "module": "core-ng",
           "version": {
-            "requires": "9.1.8"
+            "requires": "9.2.2"
           }
         },
         {
@@ -118,13 +125,33 @@
       ],
       "files": [
         {
-          "name": "core-ai-1.1.64.jar",
-          "url": "core-ai-1.1.64.jar",
-          "size": 377451,
-          "sha512": "1707de824b6a8afe8768bdd707993c5c5b88a82f5a467136ed975b46b09edd07c2e1060b38f33eff0ff459d2473268ed76d40ed30a506830074545064f7d4893",
-          "sha256": "dccccec3868e3ad88ec37f29a51e2f0774428d9e7efa9c3b980122aeee6728f1",
-          "sha1": "3aa3cad4e47b5fcf71795bbbc5360028aee1e15a",
-          "md5": "1af2d47a51f7472b7eaacc64dfe7bdc2"
+          "name": "core-ai-1.1.65.jar",
+          "url": "core-ai-1.1.65.jar",
+          "size": 386443,
+          "sha512": "b7fe62465f251f3f94ebfe90f4cbbacff91953c2bc41722dfe30037470b4821e371e2230287c18b14d022c4eccba99603b9945c90936703ab42efb393efc708d",
+          "sha256": "7743bd7152ba9eec0f018458e3d81d2a6a398fee9292426f1dd8d121bd8e7b94",
+          "sha1": "aca87d307ca1ed1cbe63463e1774191321d695af",
+          "md5": "d0f6a3cf754c9dbffdd7a6633a91db1b"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "core-ai-1.1.65-sources.jar",
+          "url": "core-ai-1.1.65-sources.jar",
+          "size": 160805,
+          "sha512": "cbd89b6886c4462db9eb3f3d3291db51ff9b17b923c5c6c3e83afe7728b003a563ac15931fbb128faa52bcd45ef0246ee2e068b6aca61eeed5f2ec8e5e1fbe03",
+          "sha256": "209e99b444a6255759c6e88218b805ce1a3e5bc5847ce6feb55a65c79f1aa2ba",
+          "sha1": "f99848668f78acdc577f5c41593ee562eb3ecb0d",
+          "md5": "250bb0d8b08c5d4f94331f44f1d2eed7"
         }
       ]
     }
