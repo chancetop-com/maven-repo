@@ -26,7 +26,7 @@
     <dependency>
       <groupId>core.framework</groupId>
       <artifactId>core-ng</artifactId>
-      <version>9.2.2</version>
+      <version>9.1.8</version>
       <scope>runtime</scope>
     </dependency>
     <dependency>
