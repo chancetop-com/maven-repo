@@ -3,7 +3,7 @@
   "component": {
     "group": "com.chancetop",
     "module": "core-ai",
-    "version": "1.1.72",
+    "version": "1.1.73",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -25,13 +25,13 @@
       },
       "files": [
         {
-          "name": "core-ai-1.1.72.jar",
-          "url": "core-ai-1.1.72.jar",
-          "size": 417413,
-          "sha512": "bc1cf022a75d72113e97d2194c108564f338b37c2bb70204e871b55fe4aea251cd550a4fa755a7d0826bb7949ba8b3f3e9c206d627bbf8cb20973d8e1171914f",
-          "sha256": "fd8c208992c8b0a24c1f1bcf1a8b62920ff5c8484cbf0521c8f22faa72f345f7",
-          "sha1": "733e68fa5bff5754731848a262a8e0e7922febfd",
-          "md5": "2289abb09d6cfe193e934bbfb27e4ad5"
+          "name": "core-ai-1.1.73.jar",
+          "url": "core-ai-1.1.73.jar",
+          "size": 417522,
+          "sha512": "112d7b841657ff4b96e53e1d26bd0503bea31ccd7aa0b35f1a5969e36c40b6ec1468162017004ebfce6016a1f3dd4669f0ad71401d5ccaa8f49a7ac0307aad77",
+          "sha256": "c9402b28918176635e75a6bea2e87804b36d3d1ec242de74b229764280e6dec4",
+          "sha1": "13d15f6c5efaae462f065ca95eaf670ed7aefcb4",
+          "md5": "9cf207d630c2c79c8b366b1b4c7eb421"
         }
       ]
     },
@@ -132,13 +132,13 @@
       ],
       "files": [
         {
-          "name": "core-ai-1.1.72.jar",
-          "url": "core-ai-1.1.72.jar",
-          "size": 417413,
-          "sha512": "bc1cf022a75d72113e97d2194c108564f338b37c2bb70204e871b55fe4aea251cd550a4fa755a7d0826bb7949ba8b3f3e9c206d627bbf8cb20973d8e1171914f",
-          "sha256": "fd8c208992c8b0a24c1f1bcf1a8b62920ff5c8484cbf0521c8f22faa72f345f7",
-          "sha1": "733e68fa5bff5754731848a262a8e0e7922febfd",
-          "md5": "2289abb09d6cfe193e934bbfb27e4ad5"
+          "name": "core-ai-1.1.73.jar",
+          "url": "core-ai-1.1.73.jar",
+          "size": 417522,
+          "sha512": "112d7b841657ff4b96e53e1d26bd0503bea31ccd7aa0b35f1a5969e36c40b6ec1468162017004ebfce6016a1f3dd4669f0ad71401d5ccaa8f49a7ac0307aad77",
+          "sha256": "c9402b28918176635e75a6bea2e87804b36d3d1ec242de74b229764280e6dec4",
+          "sha1": "13d15f6c5efaae462f065ca95eaf670ed7aefcb4",
+          "md5": "9cf207d630c2c79c8b366b1b4c7eb421"
         }
       ]
     },
@@ -152,13 +152,13 @@
       },
       "files": [
         {
-          "name": "core-ai-1.1.72-sources.jar",
-          "url": "core-ai-1.1.72-sources.jar",
-          "size": 174082,
-          "sha512": "3a9847148a16b2e8ceb4bec873baa1f16e4fe1e0fb480d39c59899408313d61387825a218bfdccd2a0ef0f96ee2f5f4f97a97fc2b1c671ea1b63c10434bfbe64",
-          "sha256": "4d32bc15302e8785610bdc5af464a57a2f94f3d40251716b937ce155f4b755b7",
-          "sha1": "9eb42f2b8b980105b342025db5906663db7a654d",
-          "md5": "249c2e54eece99e84dd9e531d98dd626"
+          "name": "core-ai-1.1.73-sources.jar",
+          "url": "core-ai-1.1.73-sources.jar",
+          "size": 174095,
+          "sha512": "02fc6b19d328a49cab38c8f3da9f2f707c75751e0350f8f02575f16eaa8662e9e1f85b41d3d4f9c31154bb4b934decca3a9fa5a32410013cef1353a57979ed1d",
+          "sha256": "8d65ba142a86e09a5d7c97015ed96c3581592da8758df42070e0fe4e69665f82",
+          "sha1": "648df187b09cb7939d618fb9fb4f281ea37c26a3",
+          "md5": "93d71864ceb26c72560720930c1e29e9"
         }
       ]
     }
