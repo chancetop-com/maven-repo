@@ -27,11 +27,11 @@
         {
           "name": "core-ai-1.1.85.jar",
           "url": "core-ai-1.1.85.jar",
-          "size": 478232,
-          "sha512": "10e325394f783ea6908ec4216d395054f6de8c51774f02104912563e42831e85b5685c4cd669ff12f036df82d97c4d41b1e1619fc2bd147d8e0b7727589439e1",
-          "sha256": "54251e1c2c026cae13e1a9776984c40d50aa2a4a1819409b770b6297101a88c2",
-          "sha1": "5e588aeda6bd22b6997f00c72bb8896fe72f7d70",
-          "md5": "6fb46e98895a6d323d4d83a3ce7f7f2c"
+          "size": 478236,
+          "sha512": "dc14c3fb4bc030ed297745f3946f464996669aed900941c7c647f90df629f370ad1c3462e860e23d1befe608542444fa76cce47cd906b02abe02e948cb358faa",
+          "sha256": "cfcd31250838e5df46d3bb992dc2904ebec394d22d9f65d49b0e9df3f507ab9c",
+          "sha1": "ae1e1fd8d13773263339e51bd254e0f402270f1c",
+          "md5": "f761b5d881b391b3a7aad9ec0639fa75"
         }
       ]
     },
@@ -155,11 +155,11 @@
         {
           "name": "core-ai-1.1.85.jar",
           "url": "core-ai-1.1.85.jar",
-          "size": 478232,
-          "sha512": "10e325394f783ea6908ec4216d395054f6de8c51774f02104912563e42831e85b5685c4cd669ff12f036df82d97c4d41b1e1619fc2bd147d8e0b7727589439e1",
-          "sha256": "54251e1c2c026cae13e1a9776984c40d50aa2a4a1819409b770b6297101a88c2",
-          "sha1": "5e588aeda6bd22b6997f00c72bb8896fe72f7d70",
-          "md5": "6fb46e98895a6d323d4d83a3ce7f7f2c"
+          "size": 478236,
+          "sha512": "dc14c3fb4bc030ed297745f3946f464996669aed900941c7c647f90df629f370ad1c3462e860e23d1befe608542444fa76cce47cd906b02abe02e948cb358faa",
+          "sha256": "cfcd31250838e5df46d3bb992dc2904ebec394d22d9f65d49b0e9df3f507ab9c",
+          "sha1": "ae1e1fd8d13773263339e51bd254e0f402270f1c",
+          "md5": "f761b5d881b391b3a7aad9ec0639fa75"
         }
       ]
     },
@@ -175,11 +175,11 @@
         {
           "name": "core-ai-1.1.85-sources.jar",
           "url": "core-ai-1.1.85-sources.jar",
-          "size": 203497,
-          "sha512": "d3f5fefd46699d5e21fc1c17f83951daa5a39adf1402e5f4a090d08f8142b9df1d5ecbb3de5a7d26f337151eaeeeb8e260515c2323bd5fc5005ecae38efeddae",
-          "sha256": "36165152beb86cffbd39c02a0b9daa94b097a40740dcaee13d24c681b1809b73",
-          "sha1": "3200b091c4319369e99324b87a946d81540fdb68",
-          "md5": "cec097e6d2459144946c016cfdde7d58"
+          "size": 203501,
+          "sha512": "137796828ada7933252f574ec91f9c1c558b64188bd2e634aed41f1db21ae88b23971402cf1dd3b64404e6ca5516889134f05e8a15ab8dfc2e918e95aa273292",
+          "sha256": "27e96f15f14f46eda116bca4caef79243d471c31fb94e3845a15f5fdfdbcf8f6",
+          "sha1": "66ea1b675e138afd882792b9ccee8b539ccfc6bf",
+          "md5": "73421c962b85d04fcd32410259a943bb"
         }
       ]
     }
