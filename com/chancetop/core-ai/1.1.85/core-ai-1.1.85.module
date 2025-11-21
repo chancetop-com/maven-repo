@@ -27,11 +27,11 @@
         {
           "name": "core-ai-1.1.85.jar",
           "url": "core-ai-1.1.85.jar",
-          "size": 508292,
-          "sha512": "b6ddc928c82d51412ab5a80e946122db073ae0deca01c8462571adccb221e4303d2e02ba6111bc38fc6663a7a1f6e0673b8762e27b15f56e429d3c7b15d2407d",
-          "sha256": "b9b126fc2a3c85b9b64f47247b005805b5b77a6bf7c3b52e8346991a1cb85ca8",
-          "sha1": "13315119ee7cedfb0869b8a5366690c967627109",
-          "md5": "4bc7cdd8ec32391600ed237f9a4cad72"
+          "size": 515498,
+          "sha512": "ea77e7723741b3b993a1b148196eba02358bf145be6e1dedf94de465be3a3e5bbcebe30f12386c9b6e5369ac9c9371efcce5b54907e536acb1ba2384e5ba7339",
+          "sha256": "1563e5afbe032fdc84d735581eeca53bf16effdada9ac7c65a9f8b404beb8666",
+          "sha1": "c0edcf25eef3a2312881a5da84a1e9227cd3bba4",
+          "md5": "6935351141531ed402133e119ed15680"
         }
       ]
     },
@@ -149,17 +149,24 @@
           "version": {
             "requires": "1.44.1"
           }
+        },
+        {
+          "group": "com.openai",
+          "module": "openai-java",
+          "version": {
+            "requires": "4.8.0"
+          }
         }
       ],
       "files": [
         {
           "name": "core-ai-1.1.85.jar",
           "url": "core-ai-1.1.85.jar",
-          "size": 508292,
-          "sha512": "b6ddc928c82d51412ab5a80e946122db073ae0deca01c8462571adccb221e4303d2e02ba6111bc38fc6663a7a1f6e0673b8762e27b15f56e429d3c7b15d2407d",
-          "sha256": "b9b126fc2a3c85b9b64f47247b005805b5b77a6bf7c3b52e8346991a1cb85ca8",
-          "sha1": "13315119ee7cedfb0869b8a5366690c967627109",
-          "md5": "4bc7cdd8ec32391600ed237f9a4cad72"
+          "size": 515498,
+          "sha512": "ea77e7723741b3b993a1b148196eba02358bf145be6e1dedf94de465be3a3e5bbcebe30f12386c9b6e5369ac9c9371efcce5b54907e536acb1ba2384e5ba7339",
+          "sha256": "1563e5afbe032fdc84d735581eeca53bf16effdada9ac7c65a9f8b404beb8666",
+          "sha1": "c0edcf25eef3a2312881a5da84a1e9227cd3bba4",
+          "md5": "6935351141531ed402133e119ed15680"
         }
       ]
     },
@@ -175,11 +182,11 @@
         {
           "name": "core-ai-1.1.85-sources.jar",
           "url": "core-ai-1.1.85-sources.jar",
-          "size": 220540,
-          "sha512": "c94fcd87a5fe583c8019c09ba22e0f880707c673387e8083e1f1b2d0731773648ea5de875d20ceedc1fa7509a2df3e49d0005be77706f4bf53b7087f28b5a636",
-          "sha256": "6046a81d6ffe79d3edd7dc8ec237f18aa7cf44e8e4595e092ceb561f14aa9621",
-          "sha1": "f86e2f11e790bd8f43d8c0805f4eb46b58d69db2",
-          "md5": "b8b0b7d5ea1e4ca8eab793b201a1b5bc"
+          "size": 223811,
+          "sha512": "ff47cad63d5b5f1e2c0cb9f3fa247cfa70616b8cd951b3913e155b69cf18541b304bbf1a51642399dfa9cb5b362aa3b143da5070dc04c7b873e3407217d40afe",
+          "sha256": "3722f94daea2d9ff466e1381da5d4e9e6482027a86e8593da1b58c091bf0b101",
+          "sha1": "f22101f1abf12f48af3d0f271b1f174c44bff52b",
+          "md5": "e9223c1046d59239b66d3e31e36df852"
         }
       ]
     }
