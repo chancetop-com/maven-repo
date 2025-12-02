@@ -27,11 +27,11 @@
         {
           "name": "core-ai-1.1.85.jar",
           "url": "core-ai-1.1.85.jar",
-          "size": 597178,
-          "sha512": "e24de1511be681f7b581f86038a1492a0b6bd4216436010dd7199058b279f804bba431fe97208751dbd806b50af3d7c54fa92c522a44c999cd86f5ab1211a522",
-          "sha256": "b11080b567992cd9861af08c4b57078aaecfdc13a047d7cb8c0f1864597936e2",
-          "sha1": "4b58ab00ae0240dc3d71945df7a1735b88daf9d0",
-          "md5": "e9bfd612e940ec82e85e08c9f75c1d79"
+          "size": 619524,
+          "sha512": "4642e5ac286add3e0de48fc10df44aed9e7a40241390f1410bbb308a9a6a6eaf358ae49c66820391ef3baadc39e797292c2bb8e634d1690ae4b5c7039c322e30",
+          "sha256": "0c07e80083c2d7d2802c83dd778ca02b79c68dd7175b533531545cfdf796a180",
+          "sha1": "cff99ea1527c4b93e9e25172053098d5cb024b20",
+          "md5": "c0124ad95bfcb83a87df5de5476c6ad3"
         }
       ]
     },
@@ -156,17 +156,24 @@
           "version": {
             "requires": "4.8.0"
           }
+        },
+        {
+          "group": "io.modelcontextprotocol.sdk",
+          "module": "mcp",
+          "version": {
+            "requires": "0.15.0"
+          }
         }
       ],
       "files": [
         {
           "name": "core-ai-1.1.85.jar",
           "url": "core-ai-1.1.85.jar",
-          "size": 597178,
-          "sha512": "e24de1511be681f7b581f86038a1492a0b6bd4216436010dd7199058b279f804bba431fe97208751dbd806b50af3d7c54fa92c522a44c999cd86f5ab1211a522",
-          "sha256": "b11080b567992cd9861af08c4b57078aaecfdc13a047d7cb8c0f1864597936e2",
-          "sha1": "4b58ab00ae0240dc3d71945df7a1735b88daf9d0",
-          "md5": "e9bfd612e940ec82e85e08c9f75c1d79"
+          "size": 619524,
+          "sha512": "4642e5ac286add3e0de48fc10df44aed9e7a40241390f1410bbb308a9a6a6eaf358ae49c66820391ef3baadc39e797292c2bb8e634d1690ae4b5c7039c322e30",
+          "sha256": "0c07e80083c2d7d2802c83dd778ca02b79c68dd7175b533531545cfdf796a180",
+          "sha1": "cff99ea1527c4b93e9e25172053098d5cb024b20",
+          "md5": "c0124ad95bfcb83a87df5de5476c6ad3"
         }
       ]
     },
@@ -182,11 +189,11 @@
         {
           "name": "core-ai-1.1.85-sources.jar",
           "url": "core-ai-1.1.85-sources.jar",
-          "size": 256207,
-          "sha512": "288e2aac5109de54e090d7b6c6b6d3300fbff598fc6361c0e6a01b1c3f52eeecbec851b29a4c0eab505797db209bdf18d3a422540ac60bac01bd82fc7b7f9dce",
-          "sha256": "6e0cfcd5926f32115775830b15d23c5f081a02f0fee62141652625c79cb3e463",
-          "sha1": "6498fe20efe191b6ba49ba89cccecc91869fd2d0",
-          "md5": "3ec92624c05b7003c7044bbb0596185a"
+          "size": 264558,
+          "sha512": "53713bea3884f40ee355458df3199c2efecfbd48ba10929ffa278150dbb158a7cbd7c44313f5790ecc57dd90c0ecb22d9484fdfe99027572f8889c9d002b352c",
+          "sha256": "5a85ab49bf528a344bc9062b620edaf5b2ec9d3185317dfffbcfd1618ef13682",
+          "sha1": "c37aa507ef916bb638e52df9523456af3f252781",
+          "md5": "b93b103d38a6c2d88b9c46a304121b92"
         }
       ]
     }
