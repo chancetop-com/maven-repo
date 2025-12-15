@@ -28,10 +28,10 @@
           "name": "core-ai-api-1.1.14.jar",
           "url": "core-ai-api-1.1.14.jar",
           "size": 37899,
-          "sha512": "74bef7f9f7028a5b87c02f7dcf512f329eb908c85b545f4ae585009f79c8dcd90ae37713121e0858a23a76f99a9fd03e4ab285fa9606274196855d929ad8f90e",
-          "sha256": "e41bf506fa5baf00ffd362d9fe0ca6aee5893b956ef6ed73968004366ccfcc07",
-          "sha1": "b3a73effe8e8131ccd36bb4187220bed1a12504c",
-          "md5": "b50601c5b51adf0cd0df91e3e6dab9e5"
+          "sha512": "8be796966a913b2c8830f057e8f6a7721f8c94a0a376ce679cd3660b25be305f0ab6ee4b5675e9fb90356c1157a58386a45a8488d3f362679f67d60e9b924b94",
+          "sha256": "94a089baa894d6bd0ca0986d5e11ab15a53c780f80adbaea02f0348d5d0241d2",
+          "sha1": "adf36b429c79db8113c25f2a48a4f8cd8f5352f4",
+          "md5": "1886b211ff6433540ecd08d65542d4a4"
         }
       ]
     },
@@ -58,10 +58,10 @@
           "name": "core-ai-api-1.1.14.jar",
           "url": "core-ai-api-1.1.14.jar",
           "size": 37899,
-          "sha512": "74bef7f9f7028a5b87c02f7dcf512f329eb908c85b545f4ae585009f79c8dcd90ae37713121e0858a23a76f99a9fd03e4ab285fa9606274196855d929ad8f90e",
-          "sha256": "e41bf506fa5baf00ffd362d9fe0ca6aee5893b956ef6ed73968004366ccfcc07",
-          "sha1": "b3a73effe8e8131ccd36bb4187220bed1a12504c",
-          "md5": "b50601c5b51adf0cd0df91e3e6dab9e5"
+          "sha512": "8be796966a913b2c8830f057e8f6a7721f8c94a0a376ce679cd3660b25be305f0ab6ee4b5675e9fb90356c1157a58386a45a8488d3f362679f67d60e9b924b94",
+          "sha256": "94a089baa894d6bd0ca0986d5e11ab15a53c780f80adbaea02f0348d5d0241d2",
+          "sha1": "adf36b429c79db8113c25f2a48a4f8cd8f5352f4",
+          "md5": "1886b211ff6433540ecd08d65542d4a4"
         }
       ]
     },
