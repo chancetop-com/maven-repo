@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.chancetop</groupId>
+  <artifactId>core-ai-api</artifactId>
+  <versioning>
+    <lastUpdated>20251217023434</lastUpdated>
+    <snapshot>
+      <timestamp>20251217.023434</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>module</extension>
+        <value>1.2.0-20251217.023434-1</value>
+        <updated>20251217023434</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.2.0-20251217.023434-1</value>
+        <updated>20251217023434</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
+        <value>1.2.0-20251217.023434-1</value>
+        <updated>20251217023434</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.2.0-20251217.023434-1</value>
+        <updated>20251217023434</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+  <version>1.2.0-SNAPSHOT</version>
+</metadata>
