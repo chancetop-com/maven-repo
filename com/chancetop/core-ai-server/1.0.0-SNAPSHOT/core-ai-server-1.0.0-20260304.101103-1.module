@@ -1,0 +1,103 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.chancetop",
+    "module": "core-ai-server",
+    "version": "1.0.0-SNAPSHOT",
+    "attributes": {
+      "org.gradle.status": "integration"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "9.3.0"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 25,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "core-ai-server-1.0.0-SNAPSHOT.jar",
+          "url": "core-ai-server-1.0.0-SNAPSHOT.jar",
+          "size": 9800,
+          "sha512": "22afca51c384d196868bbd4394db628ee206a5c8e36c2d3e32b2f19a8d4222a27bfda770fe333df3ec7e89eb568535931f015836e22f43f07f0c25cc990988b6",
+          "sha256": "4765ee5bd49253dcff2088dcca644d45e270223208e45a7f2f54281629e65f1d",
+          "sha1": "4e58daa2f360e51da71ca685069b4aab5ac2117b",
+          "md5": "16b9d8b489244657665f01a19601e313"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 25,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.chancetop",
+          "module": "core-ai",
+          "version": {
+            "requires": "1.3.0-SNAPSHOT"
+          }
+        },
+        {
+          "group": "com.chancetop",
+          "module": "core-ai-api",
+          "version": {
+            "requires": "1.3.0-SNAPSHOT"
+          }
+        },
+        {
+          "group": "core.framework",
+          "module": "core-ng",
+          "version": {
+            "requires": "9.4.2"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "core-ai-server-1.0.0-SNAPSHOT.jar",
+          "url": "core-ai-server-1.0.0-SNAPSHOT.jar",
+          "size": 9800,
+          "sha512": "22afca51c384d196868bbd4394db628ee206a5c8e36c2d3e32b2f19a8d4222a27bfda770fe333df3ec7e89eb568535931f015836e22f43f07f0c25cc990988b6",
+          "sha256": "4765ee5bd49253dcff2088dcca644d45e270223208e45a7f2f54281629e65f1d",
+          "sha1": "4e58daa2f360e51da71ca685069b4aab5ac2117b",
+          "md5": "16b9d8b489244657665f01a19601e313"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "core-ai-server-1.0.0-SNAPSHOT-sources.jar",
+          "url": "core-ai-server-1.0.0-SNAPSHOT-sources.jar",
+          "size": 5563,
+          "sha512": "f86001eb5bbbda399923c9669608b102413782a9c14de0d2a95dc2303c2971f519757dda632c6e9345e4e3a012ea66d1a614dec14bd45c4af72f52801977d7d6",
+          "sha256": "addbcd26c3160261c343118f825cb8db714af8b3d2a3640a39f4c43a20f3fb67",
+          "sha1": "712facdcb06a4783de007aedfa71ca1f45784b8a",
+          "md5": "298dec2ff447d8c588dafff4c7c83c66"
+        }
+      ]
+    }
+  ]
+}
