@@ -10,6 +10,17 @@
   <groupId>com.chancetop</groupId>
   <artifactId>core-ai-vectorstore-milvus</artifactId>
   <version>1.4.0-SNAPSHOT</version>
+  <dependencyManagement>
+    <dependencies>
+      <dependency>
+        <groupId>io.grpc</groupId>
+        <artifactId>grpc-bom</artifactId>
+        <version>1.66.0</version>
+        <type>pom</type>
+        <scope>import</scope>
+      </dependency>
+    </dependencies>
+  </dependencyManagement>
   <dependencies>
     <dependency>
       <groupId>io.milvus</groupId>
