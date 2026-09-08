@@ -1,0 +1,119 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.chancetop",
+    "module": "core-ai-vectorstore-milvus",
+    "version": "1.4.0-SNAPSHOT",
+    "attributes": {
+      "org.gradle.status": "integration"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "9.3.0"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 25,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.milvus",
+          "module": "milvus-sdk-java",
+          "version": {
+            "requires": "2.6.8"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "core-ai-vectorstore-milvus-1.4.0-SNAPSHOT.jar",
+          "url": "core-ai-vectorstore-milvus-1.4.0-SNAPSHOT.jar",
+          "size": 21411,
+          "sha512": "94a926dad454da0d90de8dc6d0f51f9dcc49be2c269488856fe2e9c8a48602415fb040ecc189f2acaee21582275872a24386019a4cb3b81a11194d7a08ca0dfd",
+          "sha256": "b428046e6c8d0fb23136b5c36f1d09052b621517875b678ac72a839d0acf631a",
+          "sha1": "eedd556c755aa1bfa26eb0a3fee77b7e6085587d",
+          "md5": "e625daa9f9cbac3d0d40ea7175f55907"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 25,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.chancetop",
+          "module": "core-ai",
+          "version": {
+            "requires": "1.4.0-SNAPSHOT"
+          }
+        },
+        {
+          "group": "core.framework",
+          "module": "core-ng",
+          "version": {
+            "requires": "9.4.2"
+          }
+        },
+        {
+          "group": "org.slf4j",
+          "module": "slf4j-api",
+          "version": {
+            "requires": "2.0.17"
+          }
+        },
+        {
+          "group": "io.milvus",
+          "module": "milvus-sdk-java",
+          "version": {
+            "requires": "2.6.8"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "core-ai-vectorstore-milvus-1.4.0-SNAPSHOT.jar",
+          "url": "core-ai-vectorstore-milvus-1.4.0-SNAPSHOT.jar",
+          "size": 21411,
+          "sha512": "94a926dad454da0d90de8dc6d0f51f9dcc49be2c269488856fe2e9c8a48602415fb040ecc189f2acaee21582275872a24386019a4cb3b81a11194d7a08ca0dfd",
+          "sha256": "b428046e6c8d0fb23136b5c36f1d09052b621517875b678ac72a839d0acf631a",
+          "sha1": "eedd556c755aa1bfa26eb0a3fee77b7e6085587d",
+          "md5": "e625daa9f9cbac3d0d40ea7175f55907"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "core-ai-vectorstore-milvus-1.4.0-SNAPSHOT-sources.jar",
+          "url": "core-ai-vectorstore-milvus-1.4.0-SNAPSHOT-sources.jar",
+          "size": 7668,
+          "sha512": "5b331b6b45ad03b933cde24a927becfe5bcbcdf3d19e8650bbbf549b804f724209a044b47d6934d6bde63c56da59a45de5100bdd92a58a88d7f24790a1826d18",
+          "sha256": "73bfc9baf9ef788565706e7a25f0bad91d55c092a3466101e24f985c417a773b",
+          "sha1": "85d4c29f53e55baf603b42ffbe2d4a90f5dda66d",
+          "md5": "ded1b0f82c9f730c1aa183810ac4ad20"
+        }
+      ]
+    }
+  ]
+}

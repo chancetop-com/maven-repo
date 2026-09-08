@@ -1,0 +1,126 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.chancetop",
+    "module": "core-ai-vectorstore-hnswlib",
+    "version": "1.4.0-SNAPSHOT",
+    "attributes": {
+      "org.gradle.status": "integration"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "9.3.0"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 25,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "com.github.jelmerk",
+          "module": "hnswlib-core",
+          "version": {
+            "requires": "1.2.0"
+          }
+        },
+        {
+          "group": "com.github.jelmerk",
+          "module": "hnswlib-utils",
+          "version": {
+            "requires": "1.2.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "core-ai-vectorstore-hnswlib-1.4.0-SNAPSHOT.jar",
+          "url": "core-ai-vectorstore-hnswlib-1.4.0-SNAPSHOT.jar",
+          "size": 10717,
+          "sha512": "a88edabf83bd74b886d4aab0792d347a9085a46454e6261ef6ff4ab0d6f8d962b3e391bcd684c8bd87d3487559b4e8e36e49bc2785657c25f0b82070093b7367",
+          "sha256": "cf894a1ac2024f2f898c1adb79367f5801ba78fcc06c0b761eb4b0ad7a5500fc",
+          "sha1": "1bf53872ee7304f9d55d8afaf84dbf250cebbffb",
+          "md5": "b3a8ccea34cbc0853e08a0bfa1a45765"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 25,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.chancetop",
+          "module": "core-ai",
+          "version": {
+            "requires": "1.4.0-SNAPSHOT"
+          }
+        },
+        {
+          "group": "core.framework",
+          "module": "core-ng",
+          "version": {
+            "requires": "9.4.2"
+          }
+        },
+        {
+          "group": "com.github.jelmerk",
+          "module": "hnswlib-core",
+          "version": {
+            "requires": "1.2.0"
+          }
+        },
+        {
+          "group": "com.github.jelmerk",
+          "module": "hnswlib-utils",
+          "version": {
+            "requires": "1.2.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "core-ai-vectorstore-hnswlib-1.4.0-SNAPSHOT.jar",
+          "url": "core-ai-vectorstore-hnswlib-1.4.0-SNAPSHOT.jar",
+          "size": 10717,
+          "sha512": "a88edabf83bd74b886d4aab0792d347a9085a46454e6261ef6ff4ab0d6f8d962b3e391bcd684c8bd87d3487559b4e8e36e49bc2785657c25f0b82070093b7367",
+          "sha256": "cf894a1ac2024f2f898c1adb79367f5801ba78fcc06c0b761eb4b0ad7a5500fc",
+          "sha1": "1bf53872ee7304f9d55d8afaf84dbf250cebbffb",
+          "md5": "b3a8ccea34cbc0853e08a0bfa1a45765"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "core-ai-vectorstore-hnswlib-1.4.0-SNAPSHOT-sources.jar",
+          "url": "core-ai-vectorstore-hnswlib-1.4.0-SNAPSHOT-sources.jar",
+          "size": 4774,
+          "sha512": "bb74e1e1b1d6047d377b0ddd7d4a7886ea35cbe5608d0cfab7866ffc026edb989b68aeccefbfd33ec4c7b56c982b80daf54d12f70f5c72e1aeca5b7f8a6b4e22",
+          "sha256": "1d19ec7e9172017a5055ebb8b82191e991ae8ae30e44e20ff535a28de8709aa0",
+          "sha1": "5c06c404d09f70883e9733e370af360b2a33d696",
+          "md5": "8c7eb8b163c3ff78cd808f596e355a42"
+        }
+      ]
+    }
+  ]
+}

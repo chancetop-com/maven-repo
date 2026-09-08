@@ -1,0 +1,238 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.chancetop",
+    "module": "core-ai",
+    "version": "1.4.0-SNAPSHOT",
+    "attributes": {
+      "org.gradle.status": "integration"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "9.3.0"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 25,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "com.fasterxml.jackson.core",
+          "module": "jackson-core",
+          "version": {
+            "requires": "2.20.1"
+          }
+        },
+        {
+          "group": "io.modelcontextprotocol.sdk",
+          "module": "mcp-core",
+          "version": {
+            "requires": "1.1.3"
+          }
+        },
+        {
+          "group": "io.modelcontextprotocol.sdk",
+          "module": "mcp-json-jackson2",
+          "version": {
+            "requires": "1.1.3"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "core-ai-1.4.0-SNAPSHOT.jar",
+          "url": "core-ai-1.4.0-SNAPSHOT.jar",
+          "size": 1427046,
+          "sha512": "1e568fb58219eefc2756a0377ba5f5ce0afb6b2495ad062d3326a21b5f460927eaec807cd352f32ce9d9bb2331921f4fb8a946585c5466fe1b5adc6365b305f0",
+          "sha256": "0f4f3d956b37f89c01114383784e1986b8aa31a73ff004cdfb5ba0c2205f8dbc",
+          "sha1": "29df34b62e075d0b4a972368c4ccab85a5bcaa0b",
+          "md5": "0e22a75ced41d64fe6044130932b4f47"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 25,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.chancetop",
+          "module": "core-ai-api",
+          "version": {
+            "requires": "1.3.0-SNAPSHOT"
+          }
+        },
+        {
+          "group": "core.framework",
+          "module": "core-ng",
+          "version": {
+            "requires": "9.4.2"
+          }
+        },
+        {
+          "group": "com.github.spullara.mustache.java",
+          "module": "compiler",
+          "version": {
+            "requires": "0.9.10"
+          }
+        },
+        {
+          "group": "com.knuddels",
+          "module": "jtokkit",
+          "version": {
+            "requires": "1.1.0"
+          }
+        },
+        {
+          "group": "com.fasterxml.jackson.core",
+          "module": "jackson-databind",
+          "version": {
+            "requires": "2.20.1"
+          }
+        },
+        {
+          "group": "com.fasterxml.jackson.datatype",
+          "module": "jackson-datatype-jsr310",
+          "version": {
+            "requires": "2.20.1"
+          }
+        },
+        {
+          "group": "io.undertow",
+          "module": "undertow-core",
+          "version": {
+            "requires": "2.3.23.Final"
+          }
+        },
+        {
+          "group": "com.squareup.okhttp3",
+          "module": "okhttp",
+          "version": {
+            "requires": "5.3.2"
+          }
+        },
+        {
+          "group": "org.apache.commons",
+          "module": "commons-lang3",
+          "version": {
+            "requires": "3.12.0"
+          }
+        },
+        {
+          "group": "org.jetbrains",
+          "module": "annotations",
+          "version": {
+            "requires": "13.0"
+          }
+        },
+        {
+          "group": "io.opentelemetry",
+          "module": "opentelemetry-api",
+          "version": {
+            "requires": "1.44.1"
+          }
+        },
+        {
+          "group": "io.opentelemetry",
+          "module": "opentelemetry-sdk",
+          "version": {
+            "requires": "1.44.1"
+          }
+        },
+        {
+          "group": "io.opentelemetry",
+          "module": "opentelemetry-exporter-otlp",
+          "version": {
+            "requires": "1.44.1"
+          }
+        },
+        {
+          "group": "org.yaml",
+          "module": "snakeyaml",
+          "version": {
+            "requires": "2.2"
+          }
+        },
+        {
+          "group": "org.jsoup",
+          "module": "jsoup",
+          "version": {
+            "requires": "1.18.3"
+          }
+        },
+        {
+          "group": "com.google.auth",
+          "module": "google-auth-library-oauth2-http",
+          "version": {
+            "requires": "1.30.0"
+          }
+        },
+        {
+          "group": "com.fasterxml.jackson.core",
+          "module": "jackson-core",
+          "version": {
+            "requires": "2.20.1"
+          }
+        },
+        {
+          "group": "io.modelcontextprotocol.sdk",
+          "module": "mcp-core",
+          "version": {
+            "requires": "1.1.3"
+          }
+        },
+        {
+          "group": "io.modelcontextprotocol.sdk",
+          "module": "mcp-json-jackson2",
+          "version": {
+            "requires": "1.1.3"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "core-ai-1.4.0-SNAPSHOT.jar",
+          "url": "core-ai-1.4.0-SNAPSHOT.jar",
+          "size": 1427046,
+          "sha512": "1e568fb58219eefc2756a0377ba5f5ce0afb6b2495ad062d3326a21b5f460927eaec807cd352f32ce9d9bb2331921f4fb8a946585c5466fe1b5adc6365b305f0",
+          "sha256": "0f4f3d956b37f89c01114383784e1986b8aa31a73ff004cdfb5ba0c2205f8dbc",
+          "sha1": "29df34b62e075d0b4a972368c4ccab85a5bcaa0b",
+          "md5": "0e22a75ced41d64fe6044130932b4f47"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "core-ai-1.4.0-SNAPSHOT-sources.jar",
+          "url": "core-ai-1.4.0-SNAPSHOT-sources.jar",
+          "size": 674429,
+          "sha512": "1cf1ae6f6e863b4bd4f49dbb7d0dfef458904127a70e265fba604c7bbe6973a0c8691d48bc38a5483c68b35ffe32371325bebab8f66aba1a3081b9023e02b1da",
+          "sha256": "878f78ce01384090fbd583f55ee24c375f5522bd67a548f6a4df467fa5194578",
+          "sha1": "aaf56814479057f6f624c7798e24f364e82cda27",
+          "md5": "cbd554fa02949a963ec5020339bded01"
+        }
+      ]
+    }
+  ]
+}
