@@ -3,10 +3,11 @@
   <groupId>com.chancetop</groupId>
   <artifactId>core-ai</artifactId>
   <versioning>
-    <latest>1.3.0-SNAPSHOT</latest>
+    <latest>1.4.0-SNAPSHOT</latest>
     <versions>
       <version>1.3.0-SNAPSHOT</version>
+      <version>1.4.0-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20260902095244</lastUpdated>
+    <lastUpdated>20260908085606</lastUpdated>
   </versioning>
 </metadata>
